@@ -1,0 +1,1 @@
+console.log(courses[1].CourseId.indexOf("PROJ200"));
